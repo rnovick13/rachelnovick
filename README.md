@@ -5,5 +5,7 @@ About Me:
   <br>
   <br>* I know Ruby on Rails, Javascript, React, Redux, but I am always learning more and expanding my knowledge-base (I'm currently teaching myself Angular).
   <br>* I am a bibliophile and always have at least one book on my person at all times.
-  <br>* I have a really unique work history that allowed me to hone my soft skills and allow me to communicate effectively.
+  <br>* I have a really unique work history that allowed me to hone my skills (both soft and technical) and allow me to communicate effectively.
   <br>* I love learning languages, both speaking and programming. I am a little out of practice with my Spanish and German, but I am brushing up on them in addition to learning Russian!
+
+  <br><img src="./octocat.png" alt="custom Octocat" height="300" width="300"/>
