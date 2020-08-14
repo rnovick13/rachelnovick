@@ -1,4 +1,4 @@
-My name is Rachel Novick and I am a web developer located in the DMV area of the United States. I graduated from Flatiron School in March 2020 after rediscovering a love of code. As a child who lived on the internet, I taught myself very basic web development early on. Being able to pursue something I love as a career is life-changing to me.
+My name is Rachel Novick and I am a web developer located in the Maryland/DC area of the United States. I graduated from Flatiron School in March 2020 after rediscovering a love of code. As a child who lived on the internet, I taught myself very basic web development early on. Being able to pursue something I love as a career is life-changing to me.
 
 <br>
 About Me:
