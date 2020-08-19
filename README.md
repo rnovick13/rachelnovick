@@ -9,9 +9,11 @@ About Me:
   <br>* I love learning languages, both speaking and programming. I am out of practice with my Spanish and German, but I am brushing up on them in addition to learning Russian!
   
  <br>
+ <br>
  Currently Working On:
   <br>
   <br>* Teaching myself Angular
   <br>* Building a personal site for a friend
+  <br>* Building a digital character sheet for the game my friend made
 
   <br><img src="./octocat.png" alt="custom Octocat" height="300" width="300"/>
